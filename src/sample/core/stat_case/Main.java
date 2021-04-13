@@ -7,21 +7,21 @@ public class Main {
 
 		switch (grade) {
 		case 'A':
-			System.out.println("Отлично!");
+			System.out.println("РћС‚Р»РёС‡РЅРѕ!");
 			break;
 		case 'B':
 		case 'C':
-			System.out.println("Отлично выполнено");
+			System.out.println("РћС‚Р»РёС‡РЅРѕ РІС‹РїРѕР»РЅРµРЅРѕ");
 			break;
 		case 'D':
-			System.out.println("Вы прошли");
+			System.out.println("Р’С‹ РїСЂРѕС€Р»Рё");
 		case 'F':
-			System.out.println("Лучше попробуйте снова");
+			System.out.println("Р›СѓС‡С€Рµ РїРѕРїСЂРѕР±СѓР№С‚Рµ СЃРЅРѕРІР°");
 			break;
 		default:
-			System.out.println("Неверная оценка");
+			System.out.println("РќРµРІРµСЂРЅР°СЏ РѕС†РµРЅРєР°");
 		}
-		System.out.println("Ваша оценка " + grade);
+		System.out.println("Р’Р°С€Р° РѕС†РµРЅРєР° " + grade);
 
 	}
 
