@@ -1,4 +1,4 @@
-package sample.core.operatorcase;
+package sample.core.stat_case;
 
 public class Main {
 
